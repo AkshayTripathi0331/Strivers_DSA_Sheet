@@ -1,0 +1,7 @@
+Problem Statement: Given a matrix if an element in the matrix is 0 then you will have to set its entire column and row to 0 and then return the matrix.
+
+
+solution:
+https://leetcode.com/problems/set-matrix-zeroes/submissions/1400280543
+TC: O(2 x n x m)
+SC: O(n) + O(m)
